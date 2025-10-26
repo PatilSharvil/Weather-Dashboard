@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="weather-card">
+            <div class="search-container">
+                <h1><i class="fas fa-cloud-sun"></i> Weather Dashboard</h1>
+                <div class="search-box">
+                    <input type="text" id="location-input" placeholder="Enter city name">
+                    <button id="search-button"><i class="fas fa-search"></i></button>
+                </div>
+            </div>
+            
+            <div class="weather-display">
+                <div class="location-section">
+                    <h2 id="location-name"><i class="fas fa-map-marker-alt"></i> <span></span></h2>
+                    <p id="date-today"></p>
+                </div>
+                
+                <div class="main-weather">
+                    <div class="temperature">
+                        <span id="temperature"></span>
+                    </div>
+                    <div class="weather-icon">
+                        <i id="weather-icon" class="fas fa-sun"></i>
+                    </div>
+                    <div class="description">
+                        <p id="description"></p>
+                    </div>
+                </div>
+                
+                <div class="weather-details">
+                    <div class="detail-item">
+                        <i class="fas fa-tint"></i>
+                        <span>Humidity</span>
+                        <p id="humidity"></p>
+                    </div>
+                    <div class="detail-item">
+                        <i class="fas fa-wind"></i>
+                        <span>Wind Speed</span>
+                        <p id="wind-speed"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="background-animation"></div>
+    <script src="script.js"></script>
+</body>
+</html>
