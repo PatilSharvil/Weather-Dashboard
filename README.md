@@ -100,26 +100,6 @@ weather-dashboard/
 5. Push to the branch (`git push origin feature/amazing-feature`)
 6. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/your-username/weather-dashboard](https://github.com/your-username/weather-dashboard)
-
-## 📸 Screenshots
-
-Here's what the Weather Dashboard looks like:
-
-*Note: Add your own screenshots by replacing placeholder images with actual application screenshots.*
-
-| Main Dashboard | Weather Search |
-| --- | --- |
-| ![Dashboard View](screenshot1.png) | ![Search View](screenshot2.png) |
-
 ## 💡 Acknowledgments
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API
