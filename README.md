@@ -4,8 +4,7 @@ A beautiful and responsive weather dashboard application that provides real-time
 
 > **Note**: This project was developed during the vocational training period.
 
-
-![Weather Dashboard Preview](https://img.shields.io/badge/Status-Active-success) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+## ✨ Features
 
 ## ✨ Features
 
